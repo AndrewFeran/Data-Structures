@@ -3,6 +3,7 @@ This repository is intended to document my progress as I learn data structures a
 
 Currently the following data structures have been implemented
 - linked lists
-- binary trees
+- stacks
+- binary trees (needs to be redone)
 
 Note that these may be incomplete.
