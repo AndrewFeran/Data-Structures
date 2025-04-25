@@ -21,7 +21,7 @@ The following data structues, algorithms, and projects are included:
 
 ✅ BFS/DFS
 
-❌ Dijktra's
+✅ Dijktra's
 
 ❌ Prim's MST
 
