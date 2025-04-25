@@ -15,7 +15,7 @@ The following data structues, algorithms, and projects are included:
 
 ✅ Heaps
 
-⚠️ Hashmaps/Hastables
+✅ Hashmaps/Hastables
 
 ✅ Graphs
 
