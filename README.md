@@ -6,7 +6,7 @@ The following data structues, algorithms, and projects may be included:
 ✅ linked lists
 ✅ stacks
 ✅ queues
-⚠️ Binary Search Trees (in prog.)
+✅ Binary Search Trees
 ❌ AVL Trees
 ❌ Heaps
 ❌ Hasmaps
