@@ -3,8 +3,11 @@ This repository is intended to document my progress as I learn data structures a
 
 The following data structues, algorithms, and projects may be included:
 
-✅linked lists
-✅stacks
-❌queues (coming soon)
-⚠️binary trees (needs complete recode)
-⚠️infix -> postfix calculator project (in progress)
+✅ linked lists
+✅ stacks
+✅ queues
+⚠️ Binary Search Trees (in prog.)
+❌ AVL Trees
+❌ Heaps
+❌ Hasmaps
+❌ Graphs
