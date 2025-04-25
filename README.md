@@ -17,9 +17,9 @@ The following data structues, algorithms, and projects are included:
 
 ❌ Hashmaps
 
-❌ Graphs
+✅ Graphs
 
-❌ BFS/DFS
+✅ BFS/DFS
 
 ❌ Dijktra's
 
