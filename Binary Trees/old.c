@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-#define SIZE 7
+#define SIZE 15
 
 // function prototypes
 void printArray(const int* list, int size);
@@ -8,7 +8,7 @@ void displayTree(const int* list, int size);
 
 int main() {
     // create a linked list and show it and its binary tree in the console
-    int list[SIZE] = { 0, 1, 2, 3, 4, 5, 6 };
+    int list[SIZE] = { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 0, 1, 2, 3, 4 };
     printArray(list, SIZE);
     displayTree(list, SIZE);
 

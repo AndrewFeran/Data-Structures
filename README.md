@@ -1,9 +1,10 @@
 # Data Structures
-This repository is intended to document my progress as I learn data structures and algorithms and aid me in my studies
+This repository is intended to document my progress as I learn data structures and algorithms and aid me in my studies.
 
-Currently the following data structures have been implemented
-- linked lists
-- stacks
-- binary trees (needs to be redone)
+The following data structues, algorithms, and projects may be included:
 
-Note that these may be incomplete.
+✅linked lists
+✅stacks
+❌queues (coming soon)
+⚠️binary trees (needs complete recode)
+⚠️infix -> postfix calculator project (in progress)
