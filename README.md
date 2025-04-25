@@ -1,21 +1,21 @@
 # Data Structures
-This repository is intended to document my progress as I learn data structures and algorithms and aid me in my studies.
+This repository basically serves as a study guide for me to practice and learn the implementations of certain data structures and algorithms.
 
 The following data structues, algorithms, and projects are included:
 
-✅ linked lists
+✅ Linked lists
 
-✅ stacks
+✅ Stacks
 
-✅ queues
+✅ Queues
 
 ✅ Binary Search Trees
 
-❌ AVL Trees
+⚠️ AVL Trees (in prog.)
 
-❌ Heaps
+✅ Heaps
 
-❌ Hasmaps
+❌ Hashmaps
 
 ❌ Graphs
 
